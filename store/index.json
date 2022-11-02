@@ -139,7 +139,7 @@
 		}
 	},
 	{
-		"name": "windows96",
+		"name": "Windows 96",
 		"icon": "https://i.redd.it/kksrotgwyya61.png",
 		"type": "app",
 		"data": {
@@ -150,8 +150,8 @@
 				"https://www.extremetech.com/wp-content/uploads/2017/02/win98-640x353.jpg",
 				"https://support.brother.com/g/b/img/faqend/faqh00000051_000/gb/en/5425/faqh000051_05.jpg"
 			],
-			"desc": "Windows 96 recreation",
-			"feat": "The os older then your mother."
+			"desc": "WINDOWS 96 - a 9x retro themed WebOS to push your browser to its absolute limits.",
+			"feat": "New version 3.0! We know, it's been a substantial amount of time since the last update …But we bring to you today lots of changes, both internal and external, to truly make this the most advanced WebOS out there. 9x style vastly improved. Put a Windows 98 screenshot next to Windows 96,All apps are now inside of your root filesystem,Apps can be edited and loaded on the fly,New Terminal Application,and much more!"
 		}
 	},
 	{
